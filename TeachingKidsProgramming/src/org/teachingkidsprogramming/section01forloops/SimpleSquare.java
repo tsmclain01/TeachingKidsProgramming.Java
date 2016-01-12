@@ -8,6 +8,7 @@ public class SimpleSquare
   public static void main(String[] args) throws Exception
   {
     //  Show the tortoise --#1
+    //blahblah
     Tortoise.show();
     for (int i = 0; i < 4; i++)
     {
